@@ -1,4 +1,4 @@
-# Raspi: Self-hosted applications on Raspberry Pi Server
+# Self-hosted applications on Raspberry Pi Server
 ## Vision:
 - Creating a self-hosted system to reclaim your internet freedom
 - Removing trust in third-party proprietary applications 
